@@ -1,0 +1,6 @@
+dao\UsuarioDao.class
+conexion\ConexionDB.class
+servlet\UsuarioServlet.class
+com\mycompany\appsafeauth\JakartaRestConfiguration.class
+modelo\Usuario.class
+com\mycompany\appsafeauth\resources\JakartaEE10Resource.class
