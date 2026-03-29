@@ -1,3 +1,4 @@
+service\UsuarioService.class
 dao\UsuarioDao.class
 conexion\ConexionDB.class
 servlet\UsuarioServlet.class
